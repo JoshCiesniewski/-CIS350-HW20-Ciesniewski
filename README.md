@@ -9,4 +9,4 @@
 * One project I was proud of was coding a terminal based Solitaire game my sophmore year.
 
 * A funny meme: 
-!(https://pbs.twimg.com/media/FIkCGJ6XsAA2_hz.jpg:large)
+![Meme](https://pbs.twimg.com/media/FIkCGJ6XsAA2_hz.jpg:large)
