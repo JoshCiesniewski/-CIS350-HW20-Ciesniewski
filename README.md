@@ -8,4 +8,4 @@
 * In my first 2 years of school here, I learned a lot of Java. The other languages that I have have learned are C, Python, Linux, R, and Swift. I have some techinal experience mostly from my past classes. I built my own pc about 1 year ago which gave me some good hardware experience.
 * One project I was proud of was coding a terminal based Solitaire game my sophmore year.
 
-![A funny meme:](https://twitter.com/memeadikt/status/1479716260543873025).
+![A funny meme:](https://pbs.twimg.com/media/FIkCGJ6XsAA2_hz.jpg:large).
